@@ -11,6 +11,3 @@ RUN unzip terraform*
 RUN mv terraform /usr/local/bin
 
 RUN rm terraform*
-
-
-
